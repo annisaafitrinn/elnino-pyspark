@@ -16,14 +16,14 @@ Clone this repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/yourusername/Big_Data_Analytics.git
-cd Big_Data_Analytics
+cd Big_Data_Analytics'''
 
 ### 2. Build and Start the Docker Containers
-docker-compose up --build
+'''docker-compose up --build'''
 
 ### 3. Monitor the Spark Cluster
-http://localhost:8080
+'''http://localhost:8080'''
 
 ### 4. Stop the Containers
-docker-compose down
+'''docker-compose down'''
 
