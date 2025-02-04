@@ -1,4 +1,4 @@
-# El Nino Analysis using SparkCluster
+# El Nino Analysis using PySpark
 
 ## Overview
 This repository contains code for a Big Data Analytics project using Apache Spark.
