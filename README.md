@@ -1,7 +1,7 @@
 # El Nino Analysis using SparkCluster
 
 ## Overview
-This repository contains code for a Big Data Analytics project leveraging Apache Spark. With Docker, you can easily set up a Spark cluster and run your application without needing to manually configure Spark.
+This repository contains code for a Big Data Analytics project using Apache Spark.
 
 ## Prerequisites
 
