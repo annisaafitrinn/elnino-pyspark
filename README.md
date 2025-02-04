@@ -14,7 +14,7 @@ This repository contains code for a Big Data Analytics project using Apache Spar
 
 Clone this repository to your local machine using Git:
 
-git clone https://github.com/yourusername/Big_Data_Analytics.git
+git clone https://github.com/annisaafitrinn/Big_Data_Analytics.git
 
 cd Big_Data_Analytics
 
