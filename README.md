@@ -24,12 +24,6 @@ docker-compose up --build
 ### 3. Monitor the Spark Cluster
 http://localhost:8080
 
-### 4. Run the Spark Job
-Once the Spark cluster is running, you can run your El Nino analysis script using spark-submit inside the container.
-If your script is project.ipynb (Jupyter Notebook), you'll need to convert it to a Python file first or use it in a Jupyter environment. For simplicity, we assume you are running a .py script. Run your script with the following command:
-
-docker-compose exec spark-submit /opt/bitnami/spark/bin/spark-submit --master spark://spark-master:7077 /app/project.py
-
 ### 5. Stop the Containers
 docker-compose down
 
