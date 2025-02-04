@@ -27,3 +27,19 @@ http://localhost:8080
 ### 5. Stop the Containers
 docker-compose down
 
+## Another way
+### 1. Navigate to the Spark folder
+Make sure you have Spark installed on your system. Then go to the sbin directory inside your Spark installation:
+cd /path/to/spark/sbin
+
+### 2. Start the Spark Master
+./start-master.sh
+
+### 3. Start the Spark Worker
+./start-master.sh
+
+### 4. Verify and monitor your Spark
+http://localhost:8080
+
+
+
