@@ -3,6 +3,9 @@
 ## Overview
 This repository contains code for a Big Data Analytics project using Apache Spark.
 
+## Dataset
+The dataset was obtained from: https://archive.ics.uci.edu/dataset/122/el+nino
+
 ## Prerequisites
 
 - **Docker**: Make sure Docker is installed on your system. You can download it from the [Docker website](https://www.docker.com/get-started).
